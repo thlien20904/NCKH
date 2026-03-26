@@ -72,7 +72,7 @@ Kiến trúc sử dụng mô hình **Microservices + Event-Driven** với Rabbit
 
 ### 3.1 Kiến trúc tổng thể
 
-![alt text](Sơ đồ tổng thể.png)
+![alt text](SDTT.png)
 
 ### 3.2 Vai trò thành phần chính
 
@@ -236,7 +236,7 @@ Hệ thống dùng RabbitMQ để xử lý các tác vụ nặng và bất đồ
 
 ### 5.3 Sequence Diagram
 
-![alt text](Sequence Diagram.png)
+![alt text](Sequence_Diagram.png)
 
 ## 6. AI Question Generation Pipeline
 
@@ -324,7 +324,7 @@ flowchart LR
 
 ### 8.2 Deployment Diagram
 
-![alt text](Deployment Diagram.png)
+![alt text](Deployment_Diagram.png)
 
 ### 8.3 CI/CD đề xuất
 
